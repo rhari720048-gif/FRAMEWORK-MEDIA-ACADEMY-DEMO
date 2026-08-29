@@ -98,7 +98,7 @@ const Home = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.5 }}
             >
-              <img src="https://api.dicebear.com/7.x/micah/svg?seed=Felix&backgroundColor=f1f5f9" alt="Rajesh Kumar" className="mentor-image" />
+              <img src="https://ui-avatars.com/api/?name=Rajesh+Kumar&background=0f172a&color=fff&size=250" alt="Rajesh Kumar" className="mentor-image" />
               <h3>Rajesh Kumar</h3>
               <p className="mentor-role">Senior News Anchor</p>
               <p className="mentor-desc">With 15+ years of prime-time anchoring, Rajesh brings unparalleled expertise in voice modulation and on-camera presence.</p>
@@ -110,7 +110,7 @@ const Home = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: 0.2 }}
             >
-              <img src="https://api.dicebear.com/7.x/micah/svg?seed=Jasmine&backgroundColor=f1f5f9" alt="Priya Sharma" className="mentor-image" />
+              <img src="https://ui-avatars.com/api/?name=Priya+Sharma&background=d90429&color=fff&size=250" alt="Priya Sharma" className="mentor-image" />
               <h3>Priya Sharma</h3>
               <p className="mentor-role">Field Journalism Expert</p>
               <p className="mentor-desc">A veteran reporter known for her fearless live coverage. Priya trains students in unscripted, high-pressure field reporting.</p>
@@ -122,7 +122,7 @@ const Home = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: 0.4 }}
             >
-              <img src="https://api.dicebear.com/7.x/micah/svg?seed=Oliver&backgroundColor=f1f5f9" alt="Karthik Raj" className="mentor-image" />
+              <img src="https://ui-avatars.com/api/?name=Karthik+Raj&background=0f172a&color=fff&size=250" alt="Karthik Raj" className="mentor-image" />
               <h3>Karthik Raj</h3>
               <p className="mentor-role">Technical Director</p>
               <p className="mentor-desc">Master of the studio floor. Karthik teaches the technical aspects of teleprompter reading and multi-camera setups.</p>
