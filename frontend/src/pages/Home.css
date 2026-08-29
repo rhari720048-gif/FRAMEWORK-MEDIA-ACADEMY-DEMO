@@ -173,7 +173,8 @@
 .mentor-image {
   height: 250px;
   width: 100%;
-  background-color: #cbd5e1; /* Placeholder */
+  object-fit: cover;
+  background-color: #f1f5f9;
   margin-bottom: 1.5rem;
 }
 
